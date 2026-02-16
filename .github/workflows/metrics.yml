@@ -41,7 +41,7 @@ jobs:
           # Base
           base: "header"
       - name: "Upload artifacts"
-        uses: "actions/upload-artifact@v4"
+        uses: "actions/upload-artifact@v6"
         with:
           name: "metrics-header"
           path: "/metrics_renders/"
@@ -72,7 +72,7 @@ jobs:
           repositories: 200
           repositories_forks: false
       - name: "Upload artifacts"
-        uses: "actions/upload-artifact@v4"
+        uses: "actions/upload-artifact@v6"
         with:
           name: "metrics-repositories"
           path: "/metrics_renders/"
@@ -111,7 +111,7 @@ jobs:
           plugin_languages_sections: "most-used"
           plugin_languages_threshold: "0%"
       - name: "Upload artifacts"
-        uses: "actions/upload-artifact@v4"
+        uses: "actions/upload-artifact@v6"
         with:
           name: "metrics-languages"
           path: "/metrics_renders/"
@@ -148,7 +148,7 @@ jobs:
           # Exclude zextras org repositories
           plugin_notable_filter: "-user:zextras"
       - name: "Upload artifacts"
-        uses: "actions/upload-artifact@v4"
+        uses: "actions/upload-artifact@v6"
         with:
           name: "metrics-notable"
           path: "/metrics_renders/"
