@@ -21,6 +21,7 @@ jobs:
   generate-header-metrics:
     name: "Generate header metrics"
     runs-on: "ubuntu-latest"
+    if: "github.event_name != 'pull_request'"
     permissions: {}
     steps:
       - uses: "lowlighter/metrics@latest"
@@ -50,6 +51,7 @@ jobs:
   generate-repositories-metrics:
     name: "Generate repositories metrics"
     runs-on: "ubuntu-latest"
+    if: "github.event_name != 'pull_request'"
     permissions: {}
     steps:
       - uses: "lowlighter/metrics@latest"
@@ -81,6 +83,7 @@ jobs:
   generate-plugin-languages-metrics:
     name: "Generate languages plugin metrics"
     runs-on: "ubuntu-latest"
+    if: "github.event_name != 'pull_request'"
     permissions: {}
     steps:
       - uses: "lowlighter/metrics@latest"
@@ -120,6 +123,7 @@ jobs:
   generate-plugin-notable-metrics:
     name: "Generate notable contributions plugin metrics"
     runs-on: "ubuntu-latest"
+    if: "github.event_name != 'pull_request'"
     permissions: {}
     steps:
       - uses: "lowlighter/metrics@latest"
@@ -167,11 +171,11 @@ jobs:
       contents: "write"
     steps:
       - name: "Checkout"
-        uses: "actions/checkout@v4"
+        uses: "actions/checkout@v6"
         with:
           ref: "${{ github.ref }}"
       - name: "Download artifacts"
-        uses: "actions/download-artifact@v4"
+        uses: "actions/download-artifact@v7"
         with:
           pattern: "metrics-*"
           path: "./metrics/"
