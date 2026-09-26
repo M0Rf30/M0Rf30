@@ -1,0 +1,633 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-26T09:00:00Z",
+  "user": {
+    "login": "M0Rf30",
+    "name": null,
+    "createdAt": "2010-11-21T23:18:52Z",
+    "followers": 207,
+    "following": 393,
+    "publicRepos": 197
+  },
+  "totals": {
+    "stars": 1660,
+    "forks": 510,
+    "ownRepos": 76,
+    "followers": 207,
+    "mergedPRsUpstream": 324,
+    "upstreamRepos": 59,
+    "contributionsAllTime": 18128,
+    "contributionsThisYear": 7350,
+    "firstYear": 2010,
+    "yearsOnGitHub": 15
+  },
+  "years": [
+    {
+      "year": 2010,
+      "total": 3,
+      "commits": 0,
+      "pullRequests": 0,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 0
+    },
+    {
+      "year": 2011,
+      "total": 5,
+      "commits": 0,
+      "pullRequests": 0,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 0
+    },
+    {
+      "year": 2012,
+      "total": 3,
+      "commits": 0,
+      "pullRequests": 0,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 0
+    },
+    {
+      "year": 2013,
+      "total": 0,
+      "commits": 0,
+      "pullRequests": 0,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 0
+    },
+    {
+      "year": 2014,
+      "total": 18,
+      "commits": 8,
+      "pullRequests": 0,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 7
+    },
+    {
+      "year": 2015,
+      "total": 30,
+      "commits": 21,
+      "pullRequests": 3,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 4
+    },
+    {
+      "year": 2016,
+      "total": 89,
+      "commits": 61,
+      "pullRequests": 13,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 0
+    },
+    {
+      "year": 2017,
+      "total": 172,
+      "commits": 132,
+      "pullRequests": 15,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 2
+    },
+    {
+      "year": 2018,
+      "total": 586,
+      "commits": 529,
+      "pullRequests": 8,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 5
+    },
+    {
+      "year": 2019,
+      "total": 642,
+      "commits": 561,
+      "pullRequests": 24,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 48
+    },
+    {
+      "year": 2020,
+      "total": 349,
+      "commits": 280,
+      "pullRequests": 21,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 12
+    },
+    {
+      "year": 2021,
+      "total": 499,
+      "commits": 391,
+      "pullRequests": 62,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 20
+    },
+    {
+      "year": 2022,
+      "total": 969,
+      "commits": 563,
+      "pullRequests": 108,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 205
+    },
+    {
+      "year": 2023,
+      "total": 1390,
+      "commits": 718,
+      "pullRequests": 178,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 401
+    },
+    {
+      "year": 2024,
+      "total": 1939,
+      "commits": 807,
+      "pullRequests": 184,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 777
+    },
+    {
+      "year": 2025,
+      "total": 4084,
+      "commits": 1596,
+      "pullRequests": 416,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 1807
+    },
+    {
+      "year": 2026,
+      "total": 7350,
+      "commits": 3121,
+      "pullRequests": 950,
+      "issues": 0,
+      "reviews": 0,
+      "restricted": 2972
+    }
+  ],
+  "languages": [
+    {
+      "name": "Shell",
+      "color": "#89e051",
+      "share": 0.2775
+    },
+    {
+      "name": "Go",
+      "color": "#00ADD8",
+      "share": 0.1287
+    },
+    {
+      "name": "C",
+      "color": "#555555",
+      "share": 0.1035
+    },
+    {
+      "name": "Rust",
+      "color": "#dea584",
+      "share": 0.1022
+    },
+    {
+      "name": "Dockerfile",
+      "color": "#384d54",
+      "share": 0.093
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "share": 0.0892
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "share": 0.0817
+    },
+    {
+      "name": "Lua",
+      "color": "#000080",
+      "share": 0.0346
+    },
+    {
+      "name": "Other",
+      "color": null,
+      "share": 0.0896
+    }
+  ],
+  "notable": [
+    {
+      "repo": "Fission-AI/OpenSpec",
+      "owner": "Fission-AI",
+      "name": "OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "",
+      "stars": 70409,
+      "mergedPRs": 1,
+      "commits": 1,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "mudler/LocalAI",
+      "owner": "mudler",
+      "name": "LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "",
+      "stars": 49271,
+      "mergedPRs": 20,
+      "commits": 20,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "netbirdio/netbird",
+      "owner": "netbirdio",
+      "name": "netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "",
+      "stars": 29531,
+      "mergedPRs": 3,
+      "commits": 3,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "systemd/systemd",
+      "owner": "systemd",
+      "name": "systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "",
+      "stars": 16750,
+      "mergedPRs": 3,
+      "commits": 5,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "jaakkopasanen/AutoEq",
+      "owner": "jaakkopasanen",
+      "name": "AutoEq",
+      "url": "https://github.com/jaakkopasanen/AutoEq",
+      "description": "",
+      "stars": 16282,
+      "mergedPRs": 2,
+      "commits": 6,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "wwmm/easyeffects",
+      "owner": "wwmm",
+      "name": "easyeffects",
+      "url": "https://github.com/wwmm/easyeffects",
+      "description": "",
+      "stars": 10262,
+      "mergedPRs": 17,
+      "commits": 23,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "diasurgical/DevilutionX",
+      "owner": "diasurgical",
+      "name": "DevilutionX",
+      "url": "https://github.com/diasurgical/DevilutionX",
+      "description": "",
+      "stars": 9765,
+      "mergedPRs": 42,
+      "commits": 42,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "johnfactotum/foliate",
+      "owner": "johnfactotum",
+      "name": "foliate",
+      "url": "https://github.com/johnfactotum/foliate",
+      "description": "",
+      "stars": 8764,
+      "mergedPRs": 3,
+      "commits": 3,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "woodpecker-ci/woodpecker",
+      "owner": "woodpecker-ci",
+      "name": "woodpecker",
+      "url": "https://github.com/woodpecker-ci/woodpecker",
+      "description": "",
+      "stars": 7911,
+      "mergedPRs": 1,
+      "commits": 20,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "kubernetes-sigs/headlamp",
+      "owner": "kubernetes-sigs",
+      "name": "headlamp",
+      "url": "https://github.com/kubernetes-sigs/headlamp",
+      "description": "",
+      "stars": 7337,
+      "mergedPRs": 1,
+      "commits": 1,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "WeblateOrg/weblate",
+      "owner": "WeblateOrg",
+      "name": "weblate",
+      "url": "https://github.com/WeblateOrg/weblate",
+      "description": "",
+      "stars": 6091,
+      "mergedPRs": 0,
+      "commits": 3,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "SchemaStore/schemastore",
+      "owner": "SchemaStore",
+      "name": "schemastore",
+      "url": "https://github.com/SchemaStore/schemastore",
+      "description": "",
+      "stars": 3847,
+      "mergedPRs": 1,
+      "commits": 1,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "keshavbhatt/whatsie",
+      "owner": "keshavbhatt",
+      "name": "whatsie",
+      "url": "https://github.com/keshavbhatt/whatsie",
+      "description": "",
+      "stars": 3421,
+      "mergedPRs": 5,
+      "commits": 5,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "nicotine-plus/nicotine-plus",
+      "owner": "nicotine-plus",
+      "name": "nicotine-plus",
+      "url": "https://github.com/nicotine-plus/nicotine-plus",
+      "description": "",
+      "stars": 3135,
+      "mergedPRs": 23,
+      "commits": 30,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "scummvm/scummvm",
+      "owner": "scummvm",
+      "name": "scummvm",
+      "url": "https://github.com/scummvm/scummvm",
+      "description": "",
+      "stars": 2817,
+      "mergedPRs": 31,
+      "commits": 50,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "project-zot/zot",
+      "owner": "project-zot",
+      "name": "zot",
+      "url": "https://github.com/project-zot/zot",
+      "description": "",
+      "stars": 2806,
+      "mergedPRs": 1,
+      "commits": 1,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "FWGS/xash3d-fwgs",
+      "owner": "FWGS",
+      "name": "xash3d-fwgs",
+      "url": "https://github.com/FWGS/xash3d-fwgs",
+      "description": "",
+      "stars": 2800,
+      "mergedPRs": 2,
+      "commits": 2,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "bashly-framework/bashly",
+      "owner": "bashly-framework",
+      "name": "bashly",
+      "url": "https://github.com/bashly-framework/bashly",
+      "description": "",
+      "stars": 2454,
+      "mergedPRs": 1,
+      "commits": 1,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "supersonic-app/supersonic",
+      "owner": "supersonic-app",
+      "name": "supersonic",
+      "url": "https://github.com/supersonic-app/supersonic",
+      "description": "",
+      "stars": 2371,
+      "mergedPRs": 8,
+      "commits": 17,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "marin-m/SongRec",
+      "owner": "marin-m",
+      "name": "SongRec",
+      "url": "https://github.com/marin-m/SongRec",
+      "description": "",
+      "stars": 1971,
+      "mergedPRs": 1,
+      "commits": 1,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "jaedb/Iris",
+      "owner": "jaedb",
+      "name": "Iris",
+      "url": "https://github.com/jaedb/Iris",
+      "description": "",
+      "stars": 1237,
+      "mergedPRs": 2,
+      "commits": 3,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "tlecomte/friture",
+      "owner": "tlecomte",
+      "name": "friture",
+      "url": "https://github.com/tlecomte/friture",
+      "description": "",
+      "stars": 1119,
+      "mergedPRs": 1,
+      "commits": 1,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "bartolli/codanna",
+      "owner": "bartolli",
+      "name": "codanna",
+      "url": "https://github.com/bartolli/codanna",
+      "description": "",
+      "stars": 745,
+      "mergedPRs": 1,
+      "commits": 5,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    },
+    {
+      "repo": "hyperledger-indy/indy-node",
+      "owner": "hyperledger-indy",
+      "name": "indy-node",
+      "url": "https://github.com/hyperledger-indy/indy-node",
+      "description": "",
+      "stars": 704,
+      "mergedPRs": 1,
+      "commits": 1,
+      "firstYear": 2019,
+      "lastYear": 2026,
+      "avatarDataUri": null
+    }
+  ],
+  "recentPRs": [
+    {
+      "repo": "rivulet-kodi/plugin.video.rivulet",
+      "number": 56,
+      "title": "feat/library mode s4me bridge",
+      "url": "https://github.com/rivulet-kodi/plugin.video.rivulet/pull/56",
+      "mergedAt": "2026-09-24T08:27:46Z"
+    },
+    {
+      "repo": "zjs81/meshcore-open",
+      "number": 558,
+      "title": "Save GPX export via file dialog on desktop",
+      "url": "https://github.com/zjs81/meshcore-open/pull/558",
+      "mergedAt": "2026-09-21T06:12:00Z"
+    },
+    {
+      "repo": "zjs81/meshcore-open",
+      "number": 555,
+      "title": "Show and copy the full node public key",
+      "url": "https://github.com/zjs81/meshcore-open/pull/555",
+      "mergedAt": "2026-09-12T21:49:21Z"
+    },
+    {
+      "repo": "Colorado-Mesh/mesh-client",
+      "number": 990,
+      "title": "flatpak: keep Electron dist layout (strip-components: 0)",
+      "url": "https://github.com/Colorado-Mesh/mesh-client/pull/990",
+      "mergedAt": "2026-09-12T14:22:49Z"
+    },
+    {
+      "repo": "meshcore-ita/meshcore-ita.github.io",
+      "number": 1,
+      "title": "SEO: sito multipagina, 9 pagine di contenuto, structured data e link di modifica",
+      "url": "https://github.com/meshcore-ita/meshcore-ita.github.io/pull/1",
+      "mergedAt": "2026-09-10T21:36:03Z"
+    },
+    {
+      "repo": "rivulet-kodi/plugin.video.rivulet",
+      "number": 55,
+      "title": "ci: publish the newest release tag, not the triggering commit",
+      "url": "https://github.com/rivulet-kodi/plugin.video.rivulet/pull/55",
+      "mergedAt": "2026-08-25T19:09:52Z"
+    }
+  ],
+  "elsewhere": {
+    "kernel": {
+      "commits": 6,
+      "firstYear": 2023,
+      "lastYear": 2026,
+      "url": "https://github.com/torvalds/linux/commits?author=M0Rf30",
+      "recent": [
+        {
+          "title": "Input: novatek-nvt-ts - drop wake_type check",
+          "url": "https://git.kernel.org/torvalds/c/7ff574599464",
+          "date": "2026-01-24"
+        },
+        {
+          "title": "arm64: dts: qcom: sdm630: add SPI7 interface",
+          "url": "https://git.kernel.org/torvalds/c/c056679db5dd",
+          "date": "2026-01-20"
+        },
+        {
+          "title": "arm64: dts: qcom: pmi8950: add pwm node",
+          "url": "https://git.kernel.org/torvalds/c/62aad66b5746",
+          "date": "2024-04-02"
+        }
+      ]
+    },
+    "postmarketos": {
+      "mergedMRs": 50,
+      "commits": 63,
+      "firstYear": 2020,
+      "lastYear": 2025,
+      "url": "https://gitlab.postmarketos.org/M0Rf30",
+      "recent": [
+        {
+          "title": "firmware-xiaomi-tulip: remove unused files",
+          "url": "https://gitlab.postmarketos.org/postmarketOS/pmaports/-/merge_requests/6323",
+          "date": "2025-03-16"
+        },
+        {
+          "title": "firmware-xiaomi-tulip: enable ath10k wifi",
+          "url": "https://gitlab.com/postmarketOS/pmaports/-/merge_requests/5274",
+          "date": "2024-06-23"
+        },
+        {
+          "title": "xiaomi-tulip: use soc-qcom-sdm660 and general enhancements",
+          "url": "https://gitlab.com/postmarketOS/pmaports/-/merge_requests/5265",
+          "date": "2024-06-22"
+        }
+      ]
+    }
+  }
+}
