@@ -44,18 +44,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
+- [rivulet-kodi/plugin.video.rivulet#63](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/63) — chore(release): 0.26.0 · <sub>2026-10-01</sub>
+- [rivulet-kodi/plugin.video.rivulet#62](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/62) — feat(serverbin): pin stremio-server-go v0.19.0; map Android x86\_64/x86 · <sub>2026-10-01</sub>
 - [rivulet-kodi/plugin.video.rivulet#60](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/60) — feat(bridge): make the Stream4Me bridge release-ready; add stremio-addons.net catalog · <sub>2026-09-29</sub>
 - [rivulet-kodi/plugin.video.rivulet#59](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/59) — chore(release): 0.24.2 · <sub>2026-09-28</sub>
 - [rivulet-kodi/plugin.video.rivulet#58](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/58) — fix(addons): send own User-Agent; Torrentio 403s python-requests · <sub>2026-09-28</sub>
 - [zjs81/meshcore-open#554](https://github.com/zjs81/meshcore-open/pull/554) — Add contact import from QR code · <sub>2026-09-27</sub>
-- [zjs81/meshcore-open#557](https://github.com/zjs81/meshcore-open/pull/557) — Close USB serial port off the UI isolate · <sub>2026-09-27</sub>
-- [rivulet-kodi/plugin.video.rivulet#56](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/56) — feat/library mode s4me bridge · <sub>2026-09-24</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-01</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-02</sub>
 <!-- updated:end -->
 
 </div>
