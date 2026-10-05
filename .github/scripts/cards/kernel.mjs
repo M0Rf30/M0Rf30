@@ -1,4 +1,4 @@
-// "Linux kernel & postmarketOS" — contributions the user makes under the same
+// "Linux kernel & Nura" (formerly postmarketOS) — contributions the user makes under the same
 // handle outside GitHub's contribution graph: mainline Linux kernel commits
 // (mirrored on GitHub, found via commit search `author:<login>`) and
 // postmarketOS GitLab activity (merged merge requests + pmaports commits).
@@ -8,7 +8,7 @@ import { CONFIG } from "../config.mjs";
 import { CARD_WIDTH, PAD, HEADER_HEIGHT, card, escapeXml, formatNumber, estimateTextWidth, truncate } from "../lib/svg.mjs";
 
 export const id = "kernel";
-export const alt = "Linux kernel and postmarketOS contributions";
+export const alt = "Linux kernel and Nura contributions";
 
 const PANEL_GAP = 12;
 const PANEL_TOP = HEADER_HEIGHT + 12; // 72
@@ -162,7 +162,7 @@ export function render(data, theme) {
     theme,
     x: rightX,
     delay: 90,
-    label: pmosCfg?.label || "postmarketOS",
+    label: pmosCfg?.label || "Nura",
     yearLabel: pmosEmpty ? "" : yearRange(pmos.firstYear, pmos.lastYear),
     empty: pmosEmpty,
     valueText: pmosEmpty ? "" : formatNumber(pmosMergedMRs),
@@ -177,7 +177,7 @@ export function render(data, theme) {
   return card({
     theme,
     height,
-    title: "Linux kernel & postmarketOS",
+    title: "Linux kernel & Nura",
     iconName: "commit",
     subtitle,
     body,

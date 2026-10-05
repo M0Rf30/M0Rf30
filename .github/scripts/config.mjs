@@ -9,7 +9,7 @@ export const CONFIG = Object.freeze({
   // touching SVG code.
   displayName: "M0Rf30",
   tagline: "Free-software developer, Linux packager and upstream contributor",
-  focus: ["Linux kernel", "postmarketOS", "Packaging", "Rust", "Go", "Mesh networks", "Audio"],
+  focus: ["Linux kernel", "Nura", "Packaging", "Rust", "Go", "Mesh networks", "Audio"],
 
   // Owners (users or orgs) whose repositories must never appear in any card,
   // matched case-insensitively. Employer work stays off the public profile.
@@ -34,7 +34,7 @@ export const CONFIG = Object.freeze({
       listUrl: "https://github.com/torvalds/linux/commits?author=M0Rf30",
     }),
     postmarketos: Object.freeze({
-      label: "postmarketOS",
+      label: "Nura",
       username: "M0Rf30",
       // postmarketOS moved from gitlab.com to its own GitLab in 2024; merged MRs
       // live on both. Only projects under `namespace` count.

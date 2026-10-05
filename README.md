@@ -3,13 +3,13 @@
   <img alt="M0Rf30: free-software developer, Linux packager and upstream contributor" src="metrics/banner-light.svg" width="100%">
 </picture>
 
-I write and package **free software**. Most of my time goes into mainline **Linux** and **postmarketOS** support for Qualcomm phones, Linux distribution tooling, and small, fast system services in **Rust** and **Go**. When something upstream breaks, I send the fix back. Over the years that has meant patches to the Linux kernel, postmarketOS, systemd, LocalAI, ScummVM, DevilutionX and EasyEffects.
+I write and package **free software**. Most of my time goes into mainline **Linux** and **Nura** (formerly postmarketOS) support for Qualcomm phones, Linux distribution tooling, and small, fast system services in **Rust** and **Go**. When something upstream breaks, I send the fix back. Over the years that has meant patches to the Linux kernel, Nura, systemd, LocalAI, ScummVM, DevilutionX and EasyEffects.
 
 ### What I work on
 
 | Area | Highlights |
 | :--- | :--- |
-| **Kernel** | [**Linux mainline**](https://github.com/torvalds/linux/commits?author=M0Rf30): Qualcomm MSM8953/SDM630 device trees, PMI8950 PWM support in `leds-qcom-lpg`, a Novatek touchscreen fix · [**postmarketOS**](https://gitlab.postmarketos.org/M0Rf30): `linux-postmarketos-qcom-msm8953` kernel upgrades, ALSA UCM audio profiles, `lk2nd-msm8953`, and the ports for the Xiaomi Redmi 5 Plus (vince) and Redmi Note 6 Pro (tulip) |
+| **Kernel** | [**Linux mainline**](https://github.com/torvalds/linux/commits?author=M0Rf30): Qualcomm MSM8953/SDM630 device trees, PMI8950 PWM support in `leds-qcom-lpg`, a Novatek touchscreen fix · [**Nura**](https://gitlab.postmarketos.org/M0Rf30): `linux-postmarketos-qcom-msm8953` kernel upgrades, ALSA UCM audio profiles, `lk2nd-msm8953`, and the ports for the Xiaomi Redmi 5 Plus (vince) and Redmi Note 6 Pro (tulip) |
 | **Packaging** | [**yap**](https://github.com/M0Rf30/yap): builds deb, rpm and apk packages from PKGBUILD specs · [**PKGBUILD**](https://github.com/M0Rf30/PKGBUILD): the Arch Linux recipes I maintain · [**android-udev-rules**](https://github.com/M0Rf30/android-udev-rules): one of the most comprehensive sets of Android udev rules around |
 | **Rust** | [**rmpd**](https://github.com/M0Rf30/rmpd): an MPD server in pure Rust · [**netsukuku-rs**](https://github.com/M0Rf30/netsukuku-rs): a new implementation of the Netsukuku mesh network · [**opensubsonic-rs**](https://github.com/M0Rf30/opensubsonic-rs) · [**lyra**](https://github.com/M0Rf30/lyra) |
 | **Identity** | [**opencie**](https://github.com/M0Rf30/opencie): an app for signing and verifying documents with the Italian electronic ID card (CIE) · [**opencie-pkcs11**](https://github.com/M0Rf30/opencie-pkcs11): a cross-platform PKCS#11 library for the CIE |
@@ -33,7 +33,7 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="metrics/kernel-dark.svg">
-  <img alt="Linux kernel and postmarketOS contributions" src="metrics/kernel-light.svg" width="100%">
+  <img alt="Linux kernel and Nura contributions" src="metrics/kernel-light.svg" width="100%">
 </picture>
 
 <picture>
