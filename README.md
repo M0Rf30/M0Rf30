@@ -44,18 +44,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
+- [gjed/terraform-github-config-as-yaml#80](https://github.com/gjed/terraform-github-config-as-yaml/pull/80) — feat(ruleset): support do\_not\_enforce\_on\_create on required\_status\_checks · <sub>2026-10-06</sub>
 - [xbmc/xbmc#29456](https://github.com/xbmc/xbmc/pull/29456) — \[Android\] Skip app icons with no intrinsic size · <sub>2026-10-03</sub>
 - [rivulet-kodi/plugin.video.rivulet#63](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/63) — chore(release): 0.26.0 · <sub>2026-10-01</sub>
 - [rivulet-kodi/plugin.video.rivulet#62](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/62) — feat(serverbin): pin stremio-server-go v0.19.0; map Android x86\_64/x86 · <sub>2026-10-01</sub>
 - [rivulet-kodi/plugin.video.rivulet#60](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/60) — feat(bridge): make the Stream4Me bridge release-ready; add stremio-addons.net catalog · <sub>2026-09-29</sub>
 - [rivulet-kodi/plugin.video.rivulet#59](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/59) — chore(release): 0.24.2 · <sub>2026-09-28</sub>
-- [rivulet-kodi/plugin.video.rivulet#58](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/58) — fix(addons): send own User-Agent; Torrentio 403s python-requests · <sub>2026-09-28</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-05</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-06</sub>
 <!-- updated:end -->
 
 </div>
