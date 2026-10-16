@@ -14,7 +14,7 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 | **Rust** | [**rmpd**](https://github.com/M0Rf30/rmpd): an MPD server in pure Rust · [**netsukuku-rs**](https://github.com/M0Rf30/netsukuku-rs): a new implementation of the Netsukuku mesh network · [**opensubsonic-rs**](https://github.com/M0Rf30/opensubsonic-rs) · [**aulos**](https://github.com/M0Rf30/aulos): a music player for the COSMIC desktop |
 | **Identity** | [**opencie**](https://github.com/M0Rf30/opencie): an app for signing and verifying documents with the Italian electronic ID card (CIE) · [**opencie-pkcs11**](https://github.com/M0Rf30/opencie-pkcs11): a cross-platform PKCS#11 library for the CIE |
 | **Embedded** | [**simonpi**](https://github.com/M0Rf30/simonpi): runs Raspberry Pi images in QEMU · [**qemu-kernels-rpi**](https://github.com/M0Rf30/qemu-kernels-rpi): the matching QEMU kernel builds |
-| **Media** | [**easyeffects-presets**](https://github.com/M0Rf30/easyeffects-presets) · [**stremio-server-go**](https://github.com/M0Rf30/stremio-server-go) · [**shisper**](https://github.com/M0Rf30/shisper): subtitles generated with whisper.cpp |
+| **Media** | [**lactea**](https://github.com/M0Rf30/lactea): a MilkDrop 2/3 and projectM-compatible music visualizer in pure Rust on wgpu · [**easyeffects-presets**](https://github.com/M0Rf30/easyeffects-presets) · [**stremio-server-go**](https://github.com/M0Rf30/stremio-server-go) · [**shisper**](https://github.com/M0Rf30/shisper): subtitles generated with whisper.cpp |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="metrics/stats-dark.svg">
