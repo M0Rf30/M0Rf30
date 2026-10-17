@@ -45,11 +45,11 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 
 <!-- recent-prs:start -->
 - [rayfish/rayfish#234](https://github.com/rayfish/rayfish/pull/234) — fix(dns): disable DNS over TLS on the TUN link · <sub>2026-10-14</sub>
+- [rivulet-kodi/rivulet-engine#47](https://github.com/rivulet-kodi/rivulet-engine/pull/47) — perf: global performance & memory audit (−75% streaming RSS, progressive archives/NZB, session reuse) · <sub>2026-10-09</sub>
+- [rivulet-kodi/rivulet-engine#46](https://github.com/rivulet-kodi/rivulet-engine/pull/46) — perf(streamproxy): 3.6x faster HLS rewrite, lock-free definition matching · <sub>2026-10-09</sub>
+- [rivulet-kodi/rivulet-engine#44](https://github.com/rivulet-kodi/rivulet-engine/pull/44) — feat(streamproxy): MediaFlow/EasyProxy-compatible extractor and proxy fixes · <sub>2026-10-09</sub>
+- [rivulet-kodi/rivulet-engine#45](https://github.com/rivulet-kodi/rivulet-engine/pull/45) — fix(deps): bump Go to 1.27.2 and x/net to v0.60.0 for GO-2026-6617 · <sub>2026-10-09</sub>
 - [xbmc/xbmc#29555](https://github.com/xbmc/xbmc/pull/29555) — \[Backport\] \[Android\] Skip app icons with no intrinsic size · <sub>2026-10-07</sub>
-- [gjed/terraform-github-config-as-yaml#80](https://github.com/gjed/terraform-github-config-as-yaml/pull/80) — feat(ruleset): support do\_not\_enforce\_on\_create on required\_status\_checks · <sub>2026-10-06</sub>
-- [xbmc/xbmc#29456](https://github.com/xbmc/xbmc/pull/29456) — \[Android\] Skip app icons with no intrinsic size · <sub>2026-10-03</sub>
-- [rivulet-kodi/plugin.video.rivulet#63](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/63) — chore(release): 0.26.0 · <sub>2026-10-01</sub>
-- [rivulet-kodi/plugin.video.rivulet#62](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/62) — feat(serverbin): pin stremio-server-go v0.19.0; map Android x86\_64/x86 · <sub>2026-10-01</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
