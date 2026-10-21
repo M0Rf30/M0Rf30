@@ -44,18 +44,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
+- [rivulet-kodi/plugin.video.rivulet#76](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/76) — fix: reopen Rivulet when launched while a video plays (#73) · <sub>2026-10-21</sub>
+- [rivulet-kodi/plugin.video.rivulet#75](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/75) — feat: pull Stremio watch state into local progress (#74) · <sub>2026-10-21</sub>
+- [openartifact/openartifact#1](https://github.com/openartifact/openartifact/pull/1) — fix: address full codebase review findings · <sub>2026-10-20</sub>
 - [rivulet-kodi/plugin.video.rivulet#70](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/70) — feat(mystuff): remove a title from Continue watching · <sub>2026-10-19</sub>
 - [rivulet-kodi/plugin.video.rivulet#69](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/69) — feat(player): optional setting to keep torrents after playback · <sub>2026-10-19</sub>
 - [attilagyorffy/chromaprint-next#2](https://github.com/attilagyorffy/chromaprint-next/pull/2) — Dependency updates, SIMD soundness fix, decompressor hardening, CI · <sub>2026-10-19</sub>
-- [rayfish/rayfish#234](https://github.com/rayfish/rayfish/pull/234) — fix(dns): disable DNS over TLS on the TUN link · <sub>2026-10-14</sub>
-- [rivulet-kodi/rivulet-engine#47](https://github.com/rivulet-kodi/rivulet-engine/pull/47) — perf: global performance & memory audit (−75% streaming RSS, progressive archives/NZB, session reuse) · <sub>2026-10-09</sub>
-- [rivulet-kodi/rivulet-engine#46](https://github.com/rivulet-kodi/rivulet-engine/pull/46) — perf(streamproxy): 3.6x faster HLS rewrite, lock-free definition matching · <sub>2026-10-09</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-20</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-21</sub>
 <!-- updated:end -->
 
 </div>
