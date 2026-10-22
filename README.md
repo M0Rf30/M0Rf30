@@ -44,18 +44,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [rivulet-kodi/plugin.video.rivulet#76](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/76) — fix: reopen Rivulet when launched while a video plays (#73) · <sub>2026-10-21</sub>
-- [rivulet-kodi/plugin.video.rivulet#75](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/75) — feat: pull Stremio watch state into local progress (#74) · <sub>2026-10-21</sub>
-- [openartifact/openartifact#1](https://github.com/openartifact/openartifact/pull/1) — fix: address full codebase review findings · <sub>2026-10-20</sub>
-- [rivulet-kodi/plugin.video.rivulet#70](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/70) — feat(mystuff): remove a title from Continue watching · <sub>2026-10-19</sub>
-- [rivulet-kodi/plugin.video.rivulet#69](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/69) — feat(player): optional setting to keep torrents after playback · <sub>2026-10-19</sub>
-- [attilagyorffy/chromaprint-next#2](https://github.com/attilagyorffy/chromaprint-next/pull/2) — Dependency updates, SIMD soundness fix, decompressor hardening, CI · <sub>2026-10-19</sub>
+- [openartifact/openartifact#54](https://github.com/openartifact/openartifact/pull/54) — fix(auth): session cookie lifetime (AUTH-6) · <sub>2026-10-22</sub>
+- [openartifact/openartifact#53](https://github.com/openartifact/openartifact/pull/53) — feat(web): breadcrumbs, mobile layout, build metadata, contrast · <sub>2026-10-22</sub>
+- [openartifact/openartifact#52](https://github.com/openartifact/openartifact/pull/52) — fix(formats): review round 2 findings (gpg, rpm, deb, cargo, go, nuget, conda, conan, ivy) · <sub>2026-10-22</sub>
+- [openartifact/openartifact#51](https://github.com/openartifact/openartifact/pull/51) — fix(storage,backup): review round 2 findings · <sub>2026-10-22</sub>
+- [openartifact/openartifact#50](https://github.com/openartifact/openartifact/pull/50) — fix(formats): review round 2 findings (docker, npm, maven, pypi, raw, helm) · <sub>2026-10-22</sub>
+- [openartifact/openartifact#49](https://github.com/openartifact/openartifact/pull/49) — fix(security): review round 2 findings · <sub>2026-10-22</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-21</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-22</sub>
 <!-- updated:end -->
 
 </div>
