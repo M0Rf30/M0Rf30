@@ -44,18 +44,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/openartifact#54](https://github.com/openartifact/openartifact/pull/54) — fix(auth): session cookie lifetime (AUTH-6) · <sub>2026-10-22</sub>
-- [openartifact/openartifact#53](https://github.com/openartifact/openartifact/pull/53) — feat(web): breadcrumbs, mobile layout, build metadata, contrast · <sub>2026-10-22</sub>
-- [openartifact/openartifact#52](https://github.com/openartifact/openartifact/pull/52) — fix(formats): review round 2 findings (gpg, rpm, deb, cargo, go, nuget, conda, conan, ivy) · <sub>2026-10-22</sub>
-- [openartifact/openartifact#51](https://github.com/openartifact/openartifact/pull/51) — fix(storage,backup): review round 2 findings · <sub>2026-10-22</sub>
-- [openartifact/openartifact#50](https://github.com/openartifact/openartifact/pull/50) — fix(formats): review round 2 findings (docker, npm, maven, pypi, raw, helm) · <sub>2026-10-22</sub>
-- [openartifact/openartifact#49](https://github.com/openartifact/openartifact/pull/49) — fix(security): review round 2 findings · <sub>2026-10-22</sub>
+- [openartifact/openartifact#104](https://github.com/openartifact/openartifact/pull/104) — feat(backup): consistent full backups with deferred blob deletion · <sub>2026-10-23</sub>
+- [openartifact/openartifact#105](https://github.com/openartifact/openartifact/pull/105) — feat(search): relevance ranking, package grouping, cached readable repos and a reworked command palette · <sub>2026-10-23</sub>
+- [openartifact/openartifact#103](https://github.com/openartifact/openartifact/pull/103) — fix: address review findings on project activity and storage tiers · <sub>2026-10-22</sub>
+- [openartifact/helm-charts#8](https://github.com/openartifact/helm-charts/pull/8) — chore(openartifact): chart 0.3.0 for OpenArtifact 0.6.0 · <sub>2026-10-22</sub>
+- [openartifact/openartifact#102](https://github.com/openartifact/openartifact/pull/102) — chore(release): 0.6.0 · <sub>2026-10-22</sub>
+- [openartifact/openartifact#101](https://github.com/openartifact/openartifact/pull/101) — docs(upgrading): security, auth and config changes since 0.5.1 · <sub>2026-10-22</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-22</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-23</sub>
 <!-- updated:end -->
 
 </div>
