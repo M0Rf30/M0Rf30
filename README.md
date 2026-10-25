@@ -44,18 +44,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/openartifact#177](https://github.com/openartifact/openartifact/pull/177) — fix(storage): verify ETag on staging read/copy for backends ignoring If-Match · <sub>2026-10-24</sub>
-- [openartifact/helm-charts#12](https://github.com/openartifact/helm-charts/pull/12) — openartifact: 0.6.0 (app 0.9.0) · <sub>2026-10-24</sub>
-- [openartifact/openartifact#176](https://github.com/openartifact/openartifact/pull/176) — chore: release 0.9.0 · <sub>2026-10-24</sub>
-- [openartifact/openartifact#175](https://github.com/openartifact/openartifact/pull/175) — feat(web): docs help links, docs-linked empty states and costly-mistake hints · <sub>2026-10-24</sub>
-- [openartifact/openartifact#174](https://github.com/openartifact/openartifact/pull/174) — docs: published site at openartifact.github.io, generated reference, docs CI job · <sub>2026-10-24</sub>
-- [openartifact/openartifact#173](https://github.com/openartifact/openartifact/pull/173) — perf(search): rank package matches with one lowered name per row · <sub>2026-10-24</sub>
+- [woodpecker-ci/woodpecker#7378](https://github.com/woodpecker-ci/woodpecker/pull/7378) — Add OpenArtifact plugin · <sub>2026-10-24</sub>
+- [openartifact/drone-openartifact#3](https://github.com/openartifact/drone-openartifact/pull/3) — build: ship oa 0.10.0 · <sub>2026-10-24</sub>
+- [openartifact/helm-charts#13](https://github.com/openartifact/helm-charts/pull/13) — openartifact: 0.7.0 (app 0.10.0) · <sub>2026-10-24</sub>
+- [openartifact/openartifact#195](https://github.com/openartifact/openartifact/pull/195) — chore: release 0.10.0 · <sub>2026-10-24</sub>
+- [openartifact/.github#1](https://github.com/openartifact/.github/pull/1) — Refresh org profile and community files · <sub>2026-10-24</sub>
+- [openartifact/openartifact#194](https://github.com/openartifact/openartifact/pull/194) — test(rpm): rebuild weak dependency fixture from a committed spec · <sub>2026-10-24</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-24</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-25</sub>
 <!-- updated:end -->
 
 </div>
