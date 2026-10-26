@@ -44,18 +44,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [woodpecker-ci/woodpecker#7378](https://github.com/woodpecker-ci/woodpecker/pull/7378) — Add OpenArtifact plugin · <sub>2026-10-24</sub>
-- [openartifact/drone-openartifact#3](https://github.com/openartifact/drone-openartifact/pull/3) — build: ship oa 0.10.0 · <sub>2026-10-24</sub>
-- [openartifact/helm-charts#13](https://github.com/openartifact/helm-charts/pull/13) — openartifact: 0.7.0 (app 0.10.0) · <sub>2026-10-24</sub>
-- [openartifact/openartifact#195](https://github.com/openartifact/openartifact/pull/195) — chore: release 0.10.0 · <sub>2026-10-24</sub>
-- [openartifact/.github#1](https://github.com/openartifact/.github/pull/1) — Refresh org profile and community files · <sub>2026-10-24</sub>
-- [openartifact/openartifact#194](https://github.com/openartifact/openartifact/pull/194) — test(rpm): rebuild weak dependency fixture from a committed spec · <sub>2026-10-24</sub>
+- [openartifact/openartifact#219](https://github.com/openartifact/openartifact/pull/219) — feat(api): serve a self-hosted Scalar API reference · <sub>2026-10-25</sub>
+- [openartifact/openartifact#215](https://github.com/openartifact/openartifact/pull/215) — ci(go): gate unreachable code with deadcode and clean up what it found · <sub>2026-10-25</sub>
+- [openartifact/openartifact#217](https://github.com/openartifact/openartifact/pull/217) — feat(federation): resume interrupted blob pulls · <sub>2026-10-25</sub>
+- [openartifact/openartifact#220](https://github.com/openartifact/openartifact/pull/220) — fix(backup): discard cancelled exports without syncing · <sub>2026-10-25</sub>
+- [openartifact/openartifact#218](https://github.com/openartifact/openartifact/pull/218) — fix(sbt): use the server's auth realm in client snippets · <sub>2026-10-25</sub>
+- [openartifact/openartifact#216](https://github.com/openartifact/openartifact/pull/216) — feat(auth): supply the bootstrap admin password and token, expire generated passwords · <sub>2026-10-25</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-25</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-26</sub>
 <!-- updated:end -->
 
 </div>
