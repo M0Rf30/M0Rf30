@@ -44,18 +44,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/openartifact#219](https://github.com/openartifact/openartifact/pull/219) — feat(api): serve a self-hosted Scalar API reference · <sub>2026-10-25</sub>
-- [openartifact/openartifact#215](https://github.com/openartifact/openartifact/pull/215) — ci(go): gate unreachable code with deadcode and clean up what it found · <sub>2026-10-25</sub>
-- [openartifact/openartifact#217](https://github.com/openartifact/openartifact/pull/217) — feat(federation): resume interrupted blob pulls · <sub>2026-10-25</sub>
-- [openartifact/openartifact#220](https://github.com/openartifact/openartifact/pull/220) — fix(backup): discard cancelled exports without syncing · <sub>2026-10-25</sub>
-- [openartifact/openartifact#218](https://github.com/openartifact/openartifact/pull/218) — fix(sbt): use the server's auth realm in client snippets · <sub>2026-10-25</sub>
-- [openartifact/openartifact#216](https://github.com/openartifact/openartifact/pull/216) — feat(auth): supply the bootstrap admin password and token, expire generated passwords · <sub>2026-10-25</sub>
+- [openartifact/openartifact#258](https://github.com/openartifact/openartifact/pull/258) — ci(coverage): restore the main baseline from the path it was saved under · <sub>2026-10-27</sub>
+- [openartifact/openartifact#256](https://github.com/openartifact/openartifact/pull/256) — test(storage): cover OCI, filesystem atomic writes, relay, metrics wrapper and S3 against Garage · <sub>2026-10-27</sub>
+- [openartifact/openartifact#253](https://github.com/openartifact/openartifact/pull/253) — test(proxy,group): cover upstream-controlled bytes (limits, malformed, failures, auth realms) · <sub>2026-10-27</sub>
+- [openartifact/openartifact#255](https://github.com/openartifact/openartifact/pull/255) — test(api): cover permission-target, user, token and change-password authorization paths · <sub>2026-10-27</sub>
+- [openartifact/openartifact#257](https://github.com/openartifact/openartifact/pull/257) — test(api): cover repository members, project move, delete and npm tag/unpublish authorization · <sub>2026-10-27</sub>
+- [openartifact/openartifact#252](https://github.com/openartifact/openartifact/pull/252) — test(docker): cover upload session scoping, cancel, digest mismatch and quota release · <sub>2026-10-27</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-26</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-27</sub>
 <!-- updated:end -->
 
 </div>
