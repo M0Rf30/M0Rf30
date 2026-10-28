@@ -44,18 +44,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/openartifact#258](https://github.com/openartifact/openartifact/pull/258) — ci(coverage): restore the main baseline from the path it was saved under · <sub>2026-10-27</sub>
-- [openartifact/openartifact#256](https://github.com/openartifact/openartifact/pull/256) — test(storage): cover OCI, filesystem atomic writes, relay, metrics wrapper and S3 against Garage · <sub>2026-10-27</sub>
-- [openartifact/openartifact#253](https://github.com/openartifact/openartifact/pull/253) — test(proxy,group): cover upstream-controlled bytes (limits, malformed, failures, auth realms) · <sub>2026-10-27</sub>
-- [openartifact/openartifact#255](https://github.com/openartifact/openartifact/pull/255) — test(api): cover permission-target, user, token and change-password authorization paths · <sub>2026-10-27</sub>
-- [openartifact/openartifact#257](https://github.com/openartifact/openartifact/pull/257) — test(api): cover repository members, project move, delete and npm tag/unpublish authorization · <sub>2026-10-27</sub>
-- [openartifact/openartifact#252](https://github.com/openartifact/openartifact/pull/252) — test(docker): cover upload session scoping, cancel, digest mismatch and quota release · <sub>2026-10-27</sub>
+- [openartifact/helm-charts#22](https://github.com/openartifact/helm-charts/pull/22) — openartifact: 0.10.2 (app 0.13.2) · <sub>2026-10-28</sub>
+- [openartifact/openartifact#306](https://github.com/openartifact/openartifact/pull/306) — chore: release 0.13.2 · <sub>2026-10-28</sub>
+- [openartifact/openartifact#305](https://github.com/openartifact/openartifact/pull/305) — feat(server): keep serving with /ready=503 for server.shutdownDelay before shutting down · <sub>2026-10-28</sub>
+- [openartifact/helm-charts#20](https://github.com/openartifact/helm-charts/pull/20) — openartifact: 0.10.1 (app 0.13.1) · <sub>2026-10-28</sub>
+- [openartifact/openartifact#303](https://github.com/openartifact/openartifact/pull/303) — chore: release 0.13.1 · <sub>2026-10-27</sub>
+- [openartifact/openartifact#302](https://github.com/openartifact/openartifact/pull/302) — feat(web): generate format policy constants from the Go registry · <sub>2026-10-27</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-27</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-28</sub>
 <!-- updated:end -->
 
 </div>
