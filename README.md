@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
+- [openartifact/openartifact#331](https://github.com/openartifact/openartifact/pull/331) — feat(composer): proxy and group repositories (#328) · <sub>2026-10-29</sub>
+- [openartifact/openartifact#330](https://github.com/openartifact/openartifact/pull/330) — feat(composer): hosted Composer repositories (#328) · <sub>2026-10-28</sub>
+- [rivulet-kodi/rivulet-engine#72](https://github.com/rivulet-kodi/rivulet-engine/pull/72) — OpenAPI 3.1 + Scalar, API fuzzing, CI hardening, anacrolix HEAD (release v0.28.0) · <sub>2026-10-28</sub>
+- [openartifact/openartifact#329](https://github.com/openartifact/openartifact/pull/329) — chore: sort package formats alphabetically · <sub>2026-10-28</sub>
+- [openartifact/helm-charts#23](https://github.com/openartifact/helm-charts/pull/23) — openartifact: 0.11.0 (app 0.14.0) · <sub>2026-10-28</sub>
 - [openartifact/openartifact#327](https://github.com/openartifact/openartifact/pull/327) — chore: release 0.14.0 · <sub>2026-10-28</sub>
-- [openartifact/openartifact#322](https://github.com/openartifact/openartifact/pull/322) — feat(ansible): proxy and group repositories (#308) · <sub>2026-10-28</sub>
-- [openartifact/openartifact#316](https://github.com/openartifact/openartifact/pull/316) — feat(ansible): hosted Ansible collection repositories (#308) · <sub>2026-10-28</sub>
-- [openartifact/openartifact#318](https://github.com/openartifact/openartifact/pull/318) — feat(vuln): local OSV mirror with continuous re-matching (#312) · <sub>2026-10-28</sub>
-- [openartifact/openartifact#319](https://github.com/openartifact/openartifact/pull/319) — feat(security): CISA KEV and FIRST EPSS exploitation signals on findings · <sub>2026-10-28</sub>
-- [openartifact/openartifact#323](https://github.com/openartifact/openartifact/pull/323) — feat(nix): proxy and group Nix binary caches (#309) · <sub>2026-10-28</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-28</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-29</sub>
 <!-- updated:end -->
 
 </div>
