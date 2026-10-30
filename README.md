@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
+- [openartifact/helm-charts#27](https://github.com/openartifact/helm-charts/pull/27) — openartifact: 0.12.0 (app 0.15.0) · <sub>2026-10-30</sub>
+- [openartifact/openartifact#335](https://github.com/openartifact/openartifact/pull/335) — chore(release): v0.15.0 · <sub>2026-10-30</sub>
+- [openartifact/openartifact#334](https://github.com/openartifact/openartifact/pull/334) — fix: post-refactor review findings (security, perf, ops, core, web) · <sub>2026-10-30</sub>
+- [openartifact/openartifact#333](https://github.com/openartifact/openartifact/pull/333) — refactor: format plugins, generic package tables, domain stores, web/worker roles and dedup (#332) · <sub>2026-10-29</sub>
 - [openartifact/openartifact#331](https://github.com/openartifact/openartifact/pull/331) — feat(composer): proxy and group repositories (#328) · <sub>2026-10-29</sub>
 - [openartifact/openartifact#330](https://github.com/openartifact/openartifact/pull/330) — feat(composer): hosted Composer repositories (#328) · <sub>2026-10-28</sub>
-- [rivulet-kodi/rivulet-engine#72](https://github.com/rivulet-kodi/rivulet-engine/pull/72) — OpenAPI 3.1 + Scalar, API fuzzing, CI hardening, anacrolix HEAD (release v0.28.0) · <sub>2026-10-28</sub>
-- [openartifact/openartifact#329](https://github.com/openartifact/openartifact/pull/329) — chore: sort package formats alphabetically · <sub>2026-10-28</sub>
-- [openartifact/helm-charts#23](https://github.com/openartifact/helm-charts/pull/23) — openartifact: 0.11.0 (app 0.14.0) · <sub>2026-10-28</sub>
-- [openartifact/openartifact#327](https://github.com/openartifact/openartifact/pull/327) — chore: release 0.14.0 · <sub>2026-10-28</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-29</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-30</sub>
 <!-- updated:end -->
 
 </div>
