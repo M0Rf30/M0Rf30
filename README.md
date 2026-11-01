@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/helm-charts#27](https://github.com/openartifact/helm-charts/pull/27) — openartifact: 0.12.0 (app 0.15.0) · <sub>2026-10-30</sub>
-- [openartifact/openartifact#335](https://github.com/openartifact/openartifact/pull/335) — chore(release): v0.15.0 · <sub>2026-10-30</sub>
-- [openartifact/openartifact#334](https://github.com/openartifact/openartifact/pull/334) — fix: post-refactor review findings (security, perf, ops, core, web) · <sub>2026-10-30</sub>
-- [openartifact/openartifact#333](https://github.com/openartifact/openartifact/pull/333) — refactor: format plugins, generic package tables, domain stores, web/worker roles and dedup (#332) · <sub>2026-10-29</sub>
-- [openartifact/openartifact#331](https://github.com/openartifact/openartifact/pull/331) — feat(composer): proxy and group repositories (#328) · <sub>2026-10-29</sub>
-- [openartifact/openartifact#330](https://github.com/openartifact/openartifact/pull/330) — feat(composer): hosted Composer repositories (#328) · <sub>2026-10-28</sub>
+- [openartifact/helm-charts#30](https://github.com/openartifact/helm-charts/pull/30) — fix(openartifact): keep the helm test Pod out of the NetworkPolicy selector (chart 0.13.1) · <sub>2026-11-01</sub>
+- [openartifact/helm-charts#29](https://github.com/openartifact/helm-charts/pull/29) — openartifact: 0.13.0 (app 0.16.0) · <sub>2026-11-01</sub>
+- [openartifact/openartifact#358](https://github.com/openartifact/openartifact/pull/358) — fix(deps): golang.org/x/net 0.62.0 · <sub>2026-10-31</sub>
+- [openartifact/openartifact#357](https://github.com/openartifact/openartifact/pull/357) — chore(release): v0.16.0 · <sub>2026-10-31</sub>
+- [openartifact/openartifact#356](https://github.com/openartifact/openartifact/pull/356) — test(web): take Chromium snapshots without the 1x1 view resize that closes the rail tooltip · <sub>2026-10-31</sub>
+- [openartifact/openartifact#355](https://github.com/openartifact/openartifact/pull/355) — feat(proxy): held-back versions for every gated format; proxied-package page · <sub>2026-10-31</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-10-31</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-01</sub>
 <!-- updated:end -->
 
 </div>
