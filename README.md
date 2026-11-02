@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/helm-charts#30](https://github.com/openartifact/helm-charts/pull/30) — fix(openartifact): keep the helm test Pod out of the NetworkPolicy selector (chart 0.13.1) · <sub>2026-11-01</sub>
-- [openartifact/helm-charts#29](https://github.com/openartifact/helm-charts/pull/29) — openartifact: 0.13.0 (app 0.16.0) · <sub>2026-11-01</sub>
-- [openartifact/openartifact#358](https://github.com/openartifact/openartifact/pull/358) — fix(deps): golang.org/x/net 0.62.0 · <sub>2026-10-31</sub>
-- [openartifact/openartifact#357](https://github.com/openartifact/openartifact/pull/357) — chore(release): v0.16.0 · <sub>2026-10-31</sub>
-- [openartifact/openartifact#356](https://github.com/openartifact/openartifact/pull/356) — test(web): take Chromium snapshots without the 1x1 view resize that closes the rail tooltip · <sub>2026-10-31</sub>
-- [openartifact/openartifact#355](https://github.com/openartifact/openartifact/pull/355) — feat(proxy): held-back versions for every gated format; proxied-package page · <sub>2026-10-31</sub>
+- [openartifact/openartifact#364](https://github.com/openartifact/openartifact/pull/364) — feat(web): upload packages of every browser-publishable format from the UI · <sub>2026-11-02</sub>
+- [openartifact/openartifact#365](https://github.com/openartifact/openartifact/pull/365) — feat(web): admin pages for attestations, declarative config, recovery and scan gate · <sub>2026-11-02</sub>
+- [openartifact/openartifact#359](https://github.com/openartifact/openartifact/pull/359) — feat(web): teach publish and consume in empty hosted repositories · <sub>2026-11-02</sub>
+- [openartifact/openartifact#362](https://github.com/openartifact/openartifact/pull/362) — test(web): e2e specs for curation, proxy settings, service accounts, activity, cleanup preview and palette · <sub>2026-11-02</sub>
+- [openartifact/openartifact#360](https://github.com/openartifact/openartifact/pull/360) — fix(web): palette reset on open, rail tooltip contrast guard, update banner baseline · <sub>2026-11-02</sub>
+- [openartifact/openartifact#361](https://github.com/openartifact/openartifact/pull/361) — feat(web): name pattern field and project-defaults live preview in the cleanup editor · <sub>2026-11-02</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-01</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-02</sub>
 <!-- updated:end -->
 
 </div>
