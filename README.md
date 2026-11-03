@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/openartifact#364](https://github.com/openartifact/openartifact/pull/364) — feat(web): upload packages of every browser-publishable format from the UI · <sub>2026-11-02</sub>
-- [openartifact/openartifact#365](https://github.com/openartifact/openartifact/pull/365) — feat(web): admin pages for attestations, declarative config, recovery and scan gate · <sub>2026-11-02</sub>
-- [openartifact/openartifact#359](https://github.com/openartifact/openartifact/pull/359) — feat(web): teach publish and consume in empty hosted repositories · <sub>2026-11-02</sub>
-- [openartifact/openartifact#362](https://github.com/openartifact/openartifact/pull/362) — test(web): e2e specs for curation, proxy settings, service accounts, activity, cleanup preview and palette · <sub>2026-11-02</sub>
-- [openartifact/openartifact#360](https://github.com/openartifact/openartifact/pull/360) — fix(web): palette reset on open, rail tooltip contrast guard, update banner baseline · <sub>2026-11-02</sub>
-- [openartifact/openartifact#361](https://github.com/openartifact/openartifact/pull/361) — feat(web): name pattern field and project-defaults live preview in the cleanup editor · <sub>2026-11-02</sub>
+- [openartifact/openartifact#400](https://github.com/openartifact/openartifact/pull/400) — perf(recovery): cheap idle journal, one mark per row per transaction, concurrent drain · <sub>2026-11-03</sub>
+- [openartifact/openartifact#399](https://github.com/openartifact/openartifact/pull/399) — perf(formats): batch package download counters (cargo, nuget, apk, nix, terraform) · <sub>2026-11-03</sub>
+- [openartifact/openartifact#394](https://github.com/openartifact/openartifact/pull/394) — perf(http): compress API JSON, keep sendfile through writer wrappers, cut middleware allocations · <sub>2026-11-03</sub>
+- [openartifact/openartifact#393](https://github.com/openartifact/openartifact/pull/393) — perf: one binary for server and oa, template-free cobra, gzip openapi, lazy regexes · <sub>2026-11-03</sub>
+- [openartifact/openartifact#395](https://github.com/openartifact/openartifact/pull/395) — perf(worker): update deb groups incrementally · <sub>2026-11-03</sub>
+- [openartifact/openartifact#392](https://github.com/openartifact/openartifact/pull/392) — fix: go module paths, hosted npm version documents, Range and ETag on blob and raw downloads · <sub>2026-11-03</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-02</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-03</sub>
 <!-- updated:end -->
 
 </div>
