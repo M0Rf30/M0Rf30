@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/openartifact#400](https://github.com/openartifact/openartifact/pull/400) — perf(recovery): cheap idle journal, one mark per row per transaction, concurrent drain · <sub>2026-11-03</sub>
-- [openartifact/openartifact#399](https://github.com/openartifact/openartifact/pull/399) — perf(formats): batch package download counters (cargo, nuget, apk, nix, terraform) · <sub>2026-11-03</sub>
-- [openartifact/openartifact#394](https://github.com/openartifact/openartifact/pull/394) — perf(http): compress API JSON, keep sendfile through writer wrappers, cut middleware allocations · <sub>2026-11-03</sub>
-- [openartifact/openartifact#393](https://github.com/openartifact/openartifact/pull/393) — perf: one binary for server and oa, template-free cobra, gzip openapi, lazy regexes · <sub>2026-11-03</sub>
-- [openartifact/openartifact#395](https://github.com/openartifact/openartifact/pull/395) — perf(worker): update deb groups incrementally · <sub>2026-11-03</sub>
-- [openartifact/openartifact#392](https://github.com/openartifact/openartifact/pull/392) — fix: go module paths, hosted npm version documents, Range and ETag on blob and raw downloads · <sub>2026-11-03</sub>
+- [rivulet-kodi/rivulet-engine#82](https://github.com/rivulet-kodi/rivulet-engine/pull/82) — fix(media): read local self-origin media through the relay too · <sub>2026-11-04</sub>
+- [rivulet-kodi/plugin.video.rivulet#118](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/118) — fix(home): keep the last worker's row when it exits mid-collect · <sub>2026-11-04</sub>
+- [rivulet-kodi/plugin.video.rivulet#115](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/115) — chore(release): 0.43.0 · <sub>2026-11-03</sub>
+- [rivulet-kodi/plugin.video.rivulet#116](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/116) — feat(server): pin rivulet-engine v0.30.2 · <sub>2026-11-03</sub>
+- [rivulet-kodi/rivulet-engine#78](https://github.com/rivulet-kodi/rivulet-engine/pull/78) — fix(memstorage): fetch only the stream's window, not the whole file · <sub>2026-11-03</sub>
+- [rivulet-kodi/plugin.video.rivulet#114](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/114) — feat(server): pin rivulet-engine v0.30.1 · <sub>2026-11-03</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-03</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-04</sub>
 <!-- updated:end -->
 
 </div>
