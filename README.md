@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [rivulet-kodi/rivulet-engine#82](https://github.com/rivulet-kodi/rivulet-engine/pull/82) — fix(media): read local self-origin media through the relay too · <sub>2026-11-04</sub>
-- [rivulet-kodi/plugin.video.rivulet#118](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/118) — fix(home): keep the last worker's row when it exits mid-collect · <sub>2026-11-04</sub>
-- [rivulet-kodi/plugin.video.rivulet#115](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/115) — chore(release): 0.43.0 · <sub>2026-11-03</sub>
-- [rivulet-kodi/plugin.video.rivulet#116](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/116) — feat(server): pin rivulet-engine v0.30.2 · <sub>2026-11-03</sub>
-- [rivulet-kodi/rivulet-engine#78](https://github.com/rivulet-kodi/rivulet-engine/pull/78) — fix(memstorage): fetch only the stream's window, not the whole file · <sub>2026-11-03</sub>
-- [rivulet-kodi/plugin.video.rivulet#114](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/114) — feat(server): pin rivulet-engine v0.30.1 · <sub>2026-11-03</sub>
+- [scummvm/scummvm#7842](https://github.com/scummvm/scummvm/pull/7842) — DIRECTOR: Size a non-stretched digital video sprite from its cast · <sub>2026-11-05</sub>
+- [openartifact/helm-charts#37](https://github.com/openartifact/helm-charts/pull/37) — openartifact: 0.16.2 (app 0.19.2) · <sub>2026-11-05</sub>
+- [openartifact/openartifact#426](https://github.com/openartifact/openartifact/pull/426) — chore(release): 0.19.2 · <sub>2026-11-05</sub>
+- [openartifact/openartifact#425](https://github.com/openartifact/openartifact/pull/425) — fix: audit batch 2 (MCP base URL, cron, backup, enc:v2, federation, sbom, oa import) · <sub>2026-11-05</sub>
+- [anacrolix/torrent#1168](https://github.com/anacrolix/torrent/pull/1168) — Don't retry reader wait errors on capped storage · <sub>2026-11-05</sub>
+- [openartifact/helm-charts#36](https://github.com/openartifact/helm-charts/pull/36) — openartifact: 0.16.1 (app 0.19.1) · <sub>2026-11-04</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-04</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-05</sub>
 <!-- updated:end -->
 
 </div>
