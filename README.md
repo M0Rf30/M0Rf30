@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [scummvm/scummvm#7842](https://github.com/scummvm/scummvm/pull/7842) — DIRECTOR: Size a non-stretched digital video sprite from its cast · <sub>2026-11-05</sub>
-- [openartifact/helm-charts#37](https://github.com/openartifact/helm-charts/pull/37) — openartifact: 0.16.2 (app 0.19.2) · <sub>2026-11-05</sub>
-- [openartifact/openartifact#426](https://github.com/openartifact/openartifact/pull/426) — chore(release): 0.19.2 · <sub>2026-11-05</sub>
-- [openartifact/openartifact#425](https://github.com/openartifact/openartifact/pull/425) — fix: audit batch 2 (MCP base URL, cron, backup, enc:v2, federation, sbom, oa import) · <sub>2026-11-05</sub>
-- [anacrolix/torrent#1168](https://github.com/anacrolix/torrent/pull/1168) — Don't retry reader wait errors on capped storage · <sub>2026-11-05</sub>
-- [openartifact/helm-charts#36](https://github.com/openartifact/helm-charts/pull/36) — openartifact: 0.16.1 (app 0.19.1) · <sub>2026-11-04</sub>
+- [openartifact/.github#3](https://github.com/openartifact/.github/pull/3) — docs(profile): add terraform-aws-openartifact module · <sub>2026-11-06</sub>
+- [openartifact/openartifact#427](https://github.com/openartifact/openartifact/pull/427) — docs(install): add AWS deployment with Terraform · <sub>2026-11-06</sub>
+- [openartifact/terraform-aws-openartifact#1](https://github.com/openartifact/terraform-aws-openartifact/pull/1) — feat: initial AWS modules for OpenArtifact (ECS Fargate and EKS) · <sub>2026-11-06</sub>
+- [rivulet-kodi/plugin.video.rivulet#131](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/131) — release: 0.48.1 · <sub>2026-11-05</sub>
+- [rivulet-kodi/rivulet-engine#87](https://github.com/rivulet-kodi/rivulet-engine/pull/87) — fix(iptv): per-channel guide cap keeps the programmes closest to now · <sub>2026-11-05</sub>
+- [rivulet-kodi/plugin.video.rivulet#130](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/130) — fix(ui): accurate message when no add-on has details · <sub>2026-11-05</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-05</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-06</sub>
 <!-- updated:end -->
 
 </div>
