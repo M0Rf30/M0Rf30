@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/.github#3](https://github.com/openartifact/.github/pull/3) — docs(profile): add terraform-aws-openartifact module · <sub>2026-11-06</sub>
-- [openartifact/openartifact#427](https://github.com/openartifact/openartifact/pull/427) — docs(install): add AWS deployment with Terraform · <sub>2026-11-06</sub>
-- [openartifact/terraform-aws-openartifact#1](https://github.com/openartifact/terraform-aws-openartifact/pull/1) — feat: initial AWS modules for OpenArtifact (ECS Fargate and EKS) · <sub>2026-11-06</sub>
-- [rivulet-kodi/plugin.video.rivulet#131](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/131) — release: 0.48.1 · <sub>2026-11-05</sub>
-- [rivulet-kodi/rivulet-engine#87](https://github.com/rivulet-kodi/rivulet-engine/pull/87) — fix(iptv): per-channel guide cap keeps the programmes closest to now · <sub>2026-11-05</sub>
-- [rivulet-kodi/plugin.video.rivulet#130](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/130) — fix(ui): accurate message when no add-on has details · <sub>2026-11-05</sub>
+- [openartifact/openartifact#433](https://github.com/openartifact/openartifact/pull/433) — feat(sso): vendor icons, provider presets, callback URL and Dex config snippet · <sub>2026-11-08</sub>
+- [openartifact/openartifact#432](https://github.com/openartifact/openartifact/pull/432) — fix(web): size the format tiles of the New repository drawer to their labels · <sub>2026-11-08</sub>
+- [openartifact/openartifact#431](https://github.com/openartifact/openartifact/pull/431) — feat(sso): full Dex integration (connector pinning, tested LDAP/local/upstream, compose profile) · <sub>2026-11-08</sub>
+- [openartifact/openartifact#429](https://github.com/openartifact/openartifact/pull/429) — fix: bind docker uploads to their image, enforce license policy on promotion, column-wise admin edits · <sub>2026-11-08</sub>
+- [openartifact/openartifact#428](https://github.com/openartifact/openartifact/pull/428) — fix: review batch 3 (correctness, races, query plans, CLI, web) · <sub>2026-11-08</sub>
+- [openartifact/terraform-aws-openartifact#2](https://github.com/openartifact/terraform-aws-openartifact/pull/2) — feat: optional EFS volume and ECS on EC2 capacity · <sub>2026-11-07</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-07</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-08</sub>
 <!-- updated:end -->
 
 </div>
