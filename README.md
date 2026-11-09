@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/openartifact#433](https://github.com/openartifact/openartifact/pull/433) — feat(sso): vendor icons, provider presets, callback URL and Dex config snippet · <sub>2026-11-08</sub>
-- [openartifact/openartifact#432](https://github.com/openartifact/openartifact/pull/432) — fix(web): size the format tiles of the New repository drawer to their labels · <sub>2026-11-08</sub>
-- [openartifact/openartifact#431](https://github.com/openartifact/openartifact/pull/431) — feat(sso): full Dex integration (connector pinning, tested LDAP/local/upstream, compose profile) · <sub>2026-11-08</sub>
-- [openartifact/openartifact#429](https://github.com/openartifact/openartifact/pull/429) — fix: bind docker uploads to their image, enforce license policy on promotion, column-wise admin edits · <sub>2026-11-08</sub>
-- [openartifact/openartifact#428](https://github.com/openartifact/openartifact/pull/428) — fix: review batch 3 (correctness, races, query plans, CLI, web) · <sub>2026-11-08</sub>
-- [openartifact/terraform-aws-openartifact#2](https://github.com/openartifact/terraform-aws-openartifact/pull/2) — feat: optional EFS volume and ECS on EC2 capacity · <sub>2026-11-07</sub>
+- [openartifact/openartifact.github.io#11](https://github.com/openartifact/openartifact.github.io/pull/11) — Landing page polish · <sub>2026-11-09</sub>
+- [openartifact/openartifact#446](https://github.com/openartifact/openartifact/pull/446) — feat(vex): import vendor CSAF VEX feeds and share VEX decisions between federated peers · <sub>2026-11-09</sub>
+- [tektoncd/operator#4394](https://github.com/tektoncd/operator/pull/4394) — fix(tektonconfig): install PaC on lite and basic · <sub>2026-11-09</sub>
+- [openartifact/openartifact#442](https://github.com/openartifact/openartifact/pull/442) — fix: apk quota precheck, raw overwrite quota reconcile, overwrite-lock tests, fuzz issue body · <sub>2026-11-09</sub>
+- [anacrolix/torrent#1125](https://github.com/anacrolix/torrent/pull/1125) — Document that a provided DefaultStorage is not closed by the Client · <sub>2026-11-09</sub>
+- [openartifact/openartifact#441](https://github.com/openartifact/openartifact/pull/441) — fix: review batch 3 (formats, group metadata, VEX versions, auth, quota, CLI, web paging) · <sub>2026-11-09</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-08</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-09</sub>
 <!-- updated:end -->
 
 </div>
