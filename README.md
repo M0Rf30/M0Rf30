@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/openartifact.github.io#11](https://github.com/openartifact/openartifact.github.io/pull/11) — Landing page polish · <sub>2026-11-09</sub>
-- [openartifact/openartifact#446](https://github.com/openartifact/openartifact/pull/446) — feat(vex): import vendor CSAF VEX feeds and share VEX decisions between federated peers · <sub>2026-11-09</sub>
-- [tektoncd/operator#4394](https://github.com/tektoncd/operator/pull/4394) — fix(tektonconfig): install PaC on lite and basic · <sub>2026-11-09</sub>
-- [openartifact/openartifact#442](https://github.com/openartifact/openartifact/pull/442) — fix: apk quota precheck, raw overwrite quota reconcile, overwrite-lock tests, fuzz issue body · <sub>2026-11-09</sub>
-- [anacrolix/torrent#1125](https://github.com/anacrolix/torrent/pull/1125) — Document that a provided DefaultStorage is not closed by the Client · <sub>2026-11-09</sub>
-- [openartifact/openartifact#441](https://github.com/openartifact/openartifact/pull/441) — fix: review batch 3 (formats, group metadata, VEX versions, auth, quota, CLI, web paging) · <sub>2026-11-09</sub>
+- [openartifact/openartifact#462](https://github.com/openartifact/openartifact/pull/462) — fix(smoke): full-upgrade the Arch image in the pacman smoke · <sub>2026-11-10</sub>
+- [openartifact/helm-charts#41](https://github.com/openartifact/helm-charts/pull/41) — openartifact: 0.20.0 (app 0.23.0) · <sub>2026-11-09</sub>
+- [openartifact/openartifact#458](https://github.com/openartifact/openartifact/pull/458) — chore(release): 0.23.0 · <sub>2026-11-09</sub>
+- [openartifact/openartifact#456](https://github.com/openartifact/openartifact/pull/456) — fix: load-test and federation findings (503 on auth DB errors, federation conflict counting, upload buffers, S3 spans) · <sub>2026-11-09</sub>
+- [rivulet-kodi/rivulet-engine#88](https://github.com/rivulet-kodi/rivulet-engine/pull/88) — fix(docker): bump alpine and golang base image digests (libexpat CVEs) · <sub>2026-11-09</sub>
+- [openartifact/helm-charts#40](https://github.com/openartifact/helm-charts/pull/40) — openartifact: 0.19.0 (app 0.22.0) · <sub>2026-11-09</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-09</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-10</sub>
 <!-- updated:end -->
 
 </div>
