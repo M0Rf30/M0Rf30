@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
+- [rivulet-kodi/rivulet-engine#90](https://github.com/rivulet-kodi/rivulet-engine/pull/90) — fix(library): forward PATH from envJSON so ffmpeg/ffprobe resolve on Android · <sub>2026-11-11</sub>
+- [rivulet-kodi/rivulet-engine#91](https://github.com/rivulet-kodi/rivulet-engine/pull/91) — fix(deps): bump Go to 1.27.4 for GO-2026-6859 (net/http MaxBytesReader race) · <sub>2026-11-11</sub>
+- [openartifact/openartifact#467](https://github.com/openartifact/openartifact/pull/467) — fix(search): consistent UUID match and single planning for prop filters · <sub>2026-11-11</sub>
+- [openartifact/openartifact#468](https://github.com/openartifact/openartifact/pull/468) — chore(deps): bump github.com/M0Rf30/pkgformat to v0.4.0 · <sub>2026-11-11</sub>
+- [openartifact/openartifact#464](https://github.com/openartifact/openartifact/pull/464) — refactor: take the apk, deb, pacman and rpm formats from github.com/M0Rf30/pkgformat · <sub>2026-11-10</sub>
 - [openartifact/openartifact#462](https://github.com/openartifact/openartifact/pull/462) — fix(smoke): full-upgrade the Arch image in the pacman smoke · <sub>2026-11-10</sub>
-- [openartifact/helm-charts#41](https://github.com/openartifact/helm-charts/pull/41) — openartifact: 0.20.0 (app 0.23.0) · <sub>2026-11-09</sub>
-- [openartifact/openartifact#458](https://github.com/openartifact/openartifact/pull/458) — chore(release): 0.23.0 · <sub>2026-11-09</sub>
-- [openartifact/openartifact#456](https://github.com/openartifact/openartifact/pull/456) — fix: load-test and federation findings (503 on auth DB errors, federation conflict counting, upload buffers, S3 spans) · <sub>2026-11-09</sub>
-- [rivulet-kodi/rivulet-engine#88](https://github.com/rivulet-kodi/rivulet-engine/pull/88) — fix(docker): bump alpine and golang base image digests (libexpat CVEs) · <sub>2026-11-09</sub>
-- [openartifact/helm-charts#40](https://github.com/openartifact/helm-charts/pull/40) — openartifact: 0.19.0 (app 0.22.0) · <sub>2026-11-09</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-10</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-11</sub>
 <!-- updated:end -->
 
 </div>
