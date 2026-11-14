@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
+- [openartifact/openartifact#481](https://github.com/openartifact/openartifact/pull/481) — docs(availability): version form a path-curating proxy matches version patterns against · <sub>2026-11-13</sub>
+- [openartifact/helm-charts#43](https://github.com/openartifact/helm-charts/pull/43) — openartifact: 0.21.0 (app 0.24.0) · <sub>2026-11-13</sub>
+- [openartifact/openartifact#479](https://github.com/openartifact/openartifact/pull/479) — chore(release): 0.24.0 · <sub>2026-11-13</sub>
+- [openartifact/openartifact#478](https://github.com/openartifact/openartifact/pull/478) — fix(cli): oa check verifies the availability answer, reports an empty lockfile; docs(nuget): clear-text password note · <sub>2026-11-13</sub>
 - [openartifact/openartifact-agent-plugin#4](https://github.com/openartifact/openartifact-agent-plugin/pull/4) — chore: add root LICENSE so GitHub detects AGPL-3.0 · <sub>2026-11-12</sub>
 - [openartifact/.github#4](https://github.com/openartifact/.github/pull/4) — docs(profile): add openartifact-agent-plugin · <sub>2026-11-12</sub>
-- [openartifact/openartifact-agent-plugin#3](https://github.com/openartifact/openartifact-agent-plugin/pull/3) — Validate skills against the Agent Skills spec (skills-ref) · <sub>2026-11-12</sub>
-- [rivulet-kodi/plugin.video.rivulet#133](https://github.com/rivulet-kodi/plugin.video.rivulet/pull/133) — release: 0.49.0 · <sub>2026-11-11</sub>
-- [rivulet-kodi/rivulet-engine#90](https://github.com/rivulet-kodi/rivulet-engine/pull/90) — fix(library): forward PATH from envJSON so ffmpeg/ffprobe resolve on Android · <sub>2026-11-11</sub>
-- [rivulet-kodi/rivulet-engine#91](https://github.com/rivulet-kodi/rivulet-engine/pull/91) — fix(deps): bump Go to 1.27.4 for GO-2026-6859 (net/http MaxBytesReader race) · <sub>2026-11-11</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-13</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-14</sub>
 <!-- updated:end -->
 
 </div>
