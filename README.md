@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
-- [openartifact/openartifact#481](https://github.com/openartifact/openartifact/pull/481) — docs(availability): version form a path-curating proxy matches version patterns against · <sub>2026-11-13</sub>
-- [openartifact/helm-charts#43](https://github.com/openartifact/helm-charts/pull/43) — openartifact: 0.21.0 (app 0.24.0) · <sub>2026-11-13</sub>
-- [openartifact/openartifact#479](https://github.com/openartifact/openartifact/pull/479) — chore(release): 0.24.0 · <sub>2026-11-13</sub>
-- [openartifact/openartifact#478](https://github.com/openartifact/openartifact/pull/478) — fix(cli): oa check verifies the availability answer, reports an empty lockfile; docs(nuget): clear-text password note · <sub>2026-11-13</sub>
-- [openartifact/openartifact-agent-plugin#4](https://github.com/openartifact/openartifact-agent-plugin/pull/4) — chore: add root LICENSE so GitHub detects AGPL-3.0 · <sub>2026-11-12</sub>
-- [openartifact/.github#4](https://github.com/openartifact/.github/pull/4) — docs(profile): add openartifact-agent-plugin · <sub>2026-11-12</sub>
+- [openartifact/helm-charts#44](https://github.com/openartifact/helm-charts/pull/44) — openartifact: 0.22.0 (app 0.25.0) · <sub>2026-11-17</sub>
+- [openartifact/openartifact#499](https://github.com/openartifact/openartifact/pull/499) — chore(release): 0.25.0 · <sub>2026-11-17</sub>
+- [openartifact/openartifact#497](https://github.com/openartifact/openartifact/pull/497) — test: fuzz version canonicalization and --fetch metadata paths at their edges · <sub>2026-11-16</sub>
+- [openartifact/openartifact#496](https://github.com/openartifact/openartifact/pull/496) — test(docgen): fail when a lockfile name is missing from the docs · <sub>2026-11-16</sub>
+- [openartifact/openartifact#495](https://github.com/openartifact/openartifact/pull/495) — fix(worker): compare npm semver parts exactly and lint discarded strconv errors · <sub>2026-11-16</sub>
+- [openartifact/openartifact#494](https://github.com/openartifact/openartifact/pull/494) — fix(clientsetup): keep the path prefix in pacman private-repository URLs · <sub>2026-11-16</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-16</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-17</sub>
 <!-- updated:end -->
 
 </div>
