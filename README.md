@@ -56,7 +56,7 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-17</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-18</sub>
 <!-- updated:end -->
 
 </div>
