@@ -45,18 +45,18 @@ I write and package **free software**. Most of my time goes into mainline **Linu
 **Recently merged upstream**
 
 <!-- recent-prs:start -->
+- [openartifact/openartifact#513](https://github.com/openartifact/openartifact/pull/513) — feat(ai): show AI analysis results in the UI and make tags searchable · <sub>2026-11-23</sub>
+- [openartifact/openartifact#516](https://github.com/openartifact/openartifact/pull/516) — chore(deps): Go 1.27.4 builder image, Trivy 0.76.2, Grype 0.121.3, oras 1.4.0 · <sub>2026-11-23</sub>
 - [theHamdiz/mandara#212](https://github.com/theHamdiz/mandara/pull/212) — feat(i18n): add Italian · <sub>2026-11-22</sub>
 - [skwir-org/skwir#14](https://github.com/skwir-org/skwir/pull/14) — Add an Italian catalog, drafted · <sub>2026-11-22</sub>
 - [openartifact/helm-charts#44](https://github.com/openartifact/helm-charts/pull/44) — openartifact: 0.22.0 (app 0.25.0) · <sub>2026-11-17</sub>
 - [openartifact/openartifact#499](https://github.com/openartifact/openartifact/pull/499) — chore(release): 0.25.0 · <sub>2026-11-17</sub>
-- [openartifact/openartifact#497](https://github.com/openartifact/openartifact/pull/497) — test: fuzz version canonicalization and --fetch metadata paths at their edges · <sub>2026-11-16</sub>
-- [openartifact/openartifact#496](https://github.com/openartifact/openartifact/pull/496) — test(docgen): fail when a lockfile name is missing from the docs · <sub>2026-11-16</sub>
 <!-- recent-prs:end -->
 
 <div align="center">
 
 <!-- updated:start -->
-<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-23</sub>
+<sub>Cards regenerated daily by <a href=".github/workflows/metrics.yml">a GitHub Actions workflow</a> · last run 2026-11-24</sub>
 <!-- updated:end -->
 
 </div>
